@@ -1,4 +1,5 @@
 #!/bin/bash
 
 echo 'Sample File'
-echo 'Sample File2'
+echo 'Currently on Mainn branch'
+echo 'This is Third line'
